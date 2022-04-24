@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
     font-family: roboto, sans-serif; 
-    background: url(https://raw.githubusercontent.com/Drqko/Landing-Page/main/images/background.jpg?token=GHSAT0AAAAAABTYVZ2I3OPPUTKLTVM7C3RUYTFX7PA) fixed no-repeat;
+    background: url(https://raw.githubusercontent.com/Drqko/Landing-Page/main/images/background.jpg) fixed no-repeat;
     text-decoration: none;
     margin: 0px;
     padding: 0px;
@@ -67,7 +67,7 @@ ul {
     text-decoration: none;
 }
 .information-section {
-    background: url(https://raw.githubusercontent.com/Drqko/Landing-Page/main/images/second-background.jpg?token=GHSAT0AAAAAABTYVZ2JXT6MAQXL5UAVFRU2YTFX76A) no-repeat fixed;
+    background: url(https://raw.githubusercontent.com/Drqko/Landing-Page/main/images/second-background.jpg) no-repeat fixed;
     overflow: hidden;
 }
 .cards {
@@ -114,7 +114,7 @@ ul {
 }
 .call-to-action-section {
     height: 50vh;
-    background: url(https://raw.githubusercontent.com/Drqko/Landing-Page/main/images/second-background.jpg?token=GHSAT0AAAAAABTYVZ2JXT6MAQXL5UAVFRU2YTFX76A) no-repeat fixed;
+    background: url(https://raw.githubusercontent.com/Drqko/Landing-Page/main/images/second-background.jpg) no-repeat fixed;
     display: flex;
     justify-content: center;
     align-items: center;
